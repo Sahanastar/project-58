@@ -1,0 +1,47 @@
+body {
+	text-align: center;
+	background: linear-gradient(0deg, rgba(34, 193, 195, 1) 0%, rgba(253, 187, 45, 1) 100%);
+	background-repeat: no-repeat:
+}
+
+img {
+	height: 450px;
+}
+
+#adout {
+	padding: 20pxx;
+	text-align: center;
+}
+
+.line {
+	height: 20px;
+	background-color: black;
+	width: 70px;
+	margin-left: 600px;
+}
+
+#mywork {
+	padding: 20pxx;
+	text-align: center;
+}
+
+#myinpiration {
+	padding: 20pxx;
+	text-align: center;
+}
+
+#welcome {
+	padding: 20pxx;
+	text-align: center;
+	font-family: 'Syne Mono', monospace;
+}
+.menu{
+	list-style: none;
+	font-family: cursive;
+	float: right;
+	top: 10px;
+	right: 30px;
+cursor: pointer;
+	color: black;
+}
+
