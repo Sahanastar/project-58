@@ -14,7 +14,7 @@ img {
 }
 
 .line {
-	height: 20px;
+	height: 15px;
 	background-color: black;
 	width: 70px;
 	margin-left: 600px;
@@ -35,13 +35,17 @@ img {
 	text-align: center;
 	font-family: 'Syne Mono', monospace;
 }
-.menu{
+
+.menu {
 	list-style: none;
 	font-family: cursive;
-	float: right;
+	float: center;
 	top: 10px;
 	right: 30px;
-cursor: pointer;
+	cursor: pointer;
 	color: black;
 }
 
+li {
+	display: inline;
+}
