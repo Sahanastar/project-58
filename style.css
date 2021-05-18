@@ -9,14 +9,14 @@ img {
 }
 
 #adout {
-	padding: 20pxx;
+	padding: 20px;
 	text-align: center;
 }
 
 .line {
-	height: 15px;
+	height: 5px;
 	background-color: black;
-	width: 70px;
+	width: 80px;
 	margin-left: 600px;
 }
 
